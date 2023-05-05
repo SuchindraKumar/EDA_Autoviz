@@ -8,7 +8,7 @@
 
 ### Autoviz can save data analysts and data scientists time and effort by automating the visualization process and allowing them to focus on interpreting the results rather than creating plots.
 
-### For more Details please checkout Official Documentation:
+### For More Details Please Checkout Official Documentation:
 
 ```
 https://pypi.org/project/autoviz/
