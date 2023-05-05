@@ -7,3 +7,10 @@
 ### Autoviz is built on top of matplotlib and seaborn, which are widely used data visualization libraries in Python. However, unlike these libraries, Autoviz does not require users to specify the type of plot they want to create or to customize the plot settings. Instead, Autoviz automatically creates the best possible visualization based on the data.
 
 ### Autoviz can save data analysts and data scientists time and effort by automating the visualization process and allowing them to focus on interpreting the results rather than creating plots.
+
+### For more Details please checkout Oficial Documentation:
+
+```
+https://pypi.org/project/autoviz/
+
+```
